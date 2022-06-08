@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(168,11): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(169,10): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(207,22): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(273,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(278,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(313,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(335,22): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(431,11): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(432,10): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(456,22): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(522,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(526,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(546,22): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(604,64): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(605,36): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(608,64): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(609,36): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\JorJor\Desktop\EZW_ZEROTREE\EZW_ZEROTREE\Source.cpp(112): warning C4715: 'check_beside': 不是所有控制路徑都傳回值
+  All 480 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  EZW_ZEROTREE.vcxproj -> C:\Users\JorJor\Desktop\EZW_ZEROTREE\x64\Release\EZW_ZEROTREE.exe
