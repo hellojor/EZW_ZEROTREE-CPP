@@ -1,0 +1,3 @@
+C:\Users\JorJor\Desktop\新增資料夾\EZWzerotreeClr\EZWzerotreeClr\Debug\EZWzerotreeClr.vcxproj.AssemblyReference.cache
+C:\Users\JorJor\Desktop\新增資料夾\EZWzerotreeClr\EZWzerotreeClr\Debug\EZWzerotreeClr.MyForm.resources
+C:\Users\JorJor\Desktop\新增資料夾\EZWzerotreeClr\EZWzerotreeClr\Debug\EZWzerotreeClr.vcxproj.GenerateResource.cache
