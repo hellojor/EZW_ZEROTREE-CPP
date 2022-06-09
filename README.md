@@ -4,5 +4,10 @@
 
 <br>
 
+## ONLY COMPRESSION 2 times. SO THE RESULT LOOK BAD!!!
+## MAYBE WILL TRY COMPRESSION MORE TIMES LATER!!!
+
+<br>
+
 ## Result
   ![Processing image](https://github.com/hellojor/EZW_ZEROTREE-CPP/blob/main/result.jpg)
